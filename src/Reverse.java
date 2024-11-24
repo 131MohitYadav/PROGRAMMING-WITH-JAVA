@@ -1,6 +1,6 @@
 
 // Write java program to reverse the given number
-
+import java.util.Scanner;
 class Reverse{
     public static void main(String args [] ) {
         Scanner sk = new Scanner(System.in);
