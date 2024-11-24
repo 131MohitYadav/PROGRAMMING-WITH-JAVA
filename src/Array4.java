@@ -1,5 +1,5 @@
 
-// How to take user input in the array element  and length of the array?.
+// How to take user input in the array element  and find the length of the array?.
 import java.util.Scanner;
 public class Array4 {
 
